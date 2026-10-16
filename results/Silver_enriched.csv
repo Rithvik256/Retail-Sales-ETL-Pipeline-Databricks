@@ -1,0 +1,11 @@
+sale_id,customer_id,product_id,quantity,sale_date,category,product_name,price,customer_name,city,state,total_amount
+1,101,P001,1,2026-10-01,Electronics,Laptop,65000,Rahul Sharma,Bangalore,KA,65000
+2,102,P002,2,2026-10-01,Electronics,Mobile,25000,Priya Nair,Chennai,TN,50000
+3,103,P003,3,2026-10-02,Electronics,Headphones,2000,Amit Patel,Mumbai,MH,6000
+4,104,P004,1,2026-10-02,Furniture,Office Chair,8000,Sneha Reddy,Hyderabad,TG,8000
+5,105,P005,2,2026-10-03,Furniture,Desk,12000,Rohit Kumar,Delhi,DL,24000
+6,106,P001,null,2026-10-03,Electronics,Laptop,65000,UNKNOWN,Pune,MH,null
+7,107,P002,1,2026-10-04,Electronics,Mobile,25000,Anjali Gupta,Bangalore,KA,25000
+8,101,P002,1,2026-10-04,Electronics,Mobile,25000,Rahul Sharma,Bangalore,KA,25000
+9,102,P003,2,2026-10-05,Electronics,Headphones,2000,Priya Nair,Chennai,TN,4000
+10,103,P001,1,2026-10-05,Electronics,Laptop,65000,Amit Patel,Mumbai,MH,65000
